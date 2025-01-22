@@ -1,10 +1,42 @@
-Bill Generation
-• Technologies Used: Java, Spring boot, MySQL
+# Bill Generation and Inventory Management System
 
-• Developed a comprehensive inventory management system using Spring Boot, featuring backend APIs that automate billing processes and enable real-time customer notifications via SMS, WhatsApp, and Email.
+This is a comprehensive **Inventory Management System** built using **Java** and **Spring Boot** with a **MySQL** database. The system automates billing processes, generates real-time customer notifications, and provides consistent inventory oversight for administrators.
 
-• Integrated RESTful APIs for seamless communication and optimized database performance, ensuring robust security and proper exception handling, which contributes to a scalable and high-performing system.
+## Technologies Used
+- **Java**
+- **Spring Boot**
+- **MySQL**
+- **RESTful APIs**
+- **SMS, WhatsApp, and Email Notifications**
 
-• Implemented automatic daily inventory reports that are sent via email to the admin, providing consistent oversight and ensuring that inventory levels are regularly monitored and managed.
+## Features
 
-• Enhanced customer engagement by automating SMS and WhatsApp notifications for billing, ensuring timely and effective communication, and improving overall customer satisfaction.
+### 1. **Billing Automation**
+   - Automates the billing process, ensuring accuracy and efficiency.
+   - Integrates various communication channels like **SMS**, **WhatsApp**, and **Email** for real-time customer notifications.
+
+### 2. **Real-Time Customer Notifications**
+   - Sends instant notifications to customers for billing updates, order statuses, and more.
+   - Ensures timely and effective communication with customers, enhancing overall satisfaction.
+
+### 3. **Inventory Management**
+   - Real-time tracking of inventory levels.
+   - Provides automatic daily inventory reports sent to the admin's email for continuous monitoring and management.
+
+### 4. **RESTful APIs**
+   - Seamlessly integrates with external systems using RESTful APIs.
+   - Ensures high-performance communication and robust security for smooth operations.
+
+### 5. **Exception Handling**
+   - Proper exception handling is implemented throughout the system, ensuring that errors are managed and resolved gracefully.
+
+### 6. **Scalability and Performance**
+   - Designed to be scalable with optimized database queries and efficient handling of high loads.
+
+## Installation
+
+### Prerequisites:
+- Java 8 or higher
+- Spring Boot (2.x or higher)
+- MySQL Database
+
