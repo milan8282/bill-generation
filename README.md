@@ -39,4 +39,5 @@ This is a comprehensive **Inventory Management System** built using **Java** and
 - Java 8 or higher
 - Spring Boot (2.x or higher)
 - MySQL Database
+- Twillio
 
